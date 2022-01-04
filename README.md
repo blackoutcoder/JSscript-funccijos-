@@ -1,0 +1,1 @@
+# JSscript-funccijos-
